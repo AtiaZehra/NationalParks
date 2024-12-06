@@ -23,3 +23,6 @@ This is a web portal designed to help users explore national parks and their wil
 1. Clone the repository:
    ```bash
    git clone https://github.com/AtiaZehra/NationalParks.git
+
+## Live Demo:
+   https://atiazehra.github.io/NationalParks/
